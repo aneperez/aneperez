@@ -20,4 +20,4 @@ Plr e modelos de negócios digitais de forma autodidata.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ela / dela
 
-<a href = "mailto:fenix_lousyane@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:fenix_lousyane@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
