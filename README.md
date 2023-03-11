@@ -24,7 +24,8 @@ Plr e modelos de negócios digitais de forma autodidata.
 
 <a href = "mailto:fenix_lousyane@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<p align="center">
-  <img src="redfox" >
-  <img src="redfoxtwo">
-</p>
+
+
+![](https://tenor.com/pt-BR/view/fox-gif-25805627)
+
+
