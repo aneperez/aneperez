@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 ### revisão textual em geral e copyright
 - 🌱 I’m currently learning ...
  ### front end, html, css, javascript, como aluna no Ford Academy Senai Ipiranga.
-Plr e modelos de negócios digitais de forma autodidata.
 
 
 ### Direito Uninove 2014 a 2017 - trancado.
